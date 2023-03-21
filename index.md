@@ -3,3 +3,4 @@
 * [kaede](idols/kaede)
 * [kanade](idols/kanade)
 * [kanade](idols/kanade)
+* [kako](idols/kako)
