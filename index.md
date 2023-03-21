@@ -2,5 +2,4 @@
 ## 보존된 아이돌 갤러리 목록
 * [kaede](idols/kaede)
 * [kanade](idols/kanade)
-* [kanade](idols/kanade)
 * [kako](idols/kako)
