@@ -4,4 +4,4 @@
 * [kanade](idols/kanade)
 * [kako](idols/kako)
 ## 보존된 푸치 프로필 목록
-* [puchi](etc/puchi/puchi)
+* [profile](etc/puchi/profile)
