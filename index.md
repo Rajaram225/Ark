@@ -7,3 +7,7 @@
 
 ## 보존된 푸치 프로필 목록
 * [Profile](etc/puchi/Profile)
+
+## 보존된 기타 커뮤 목록
+* [refresh1](etc/commu/refresh1)
+* [refresh2](etc/commu/refresh2)
