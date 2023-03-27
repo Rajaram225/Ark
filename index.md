@@ -9,5 +9,10 @@
 * [Profile](etc/puchi/Profile)
 
 ## 보존된 기타 커뮤 목록
-* [refresh1](etc/commu/refresh1)
-* [refresh2](etc/commu/refresh2)
+* [kaederefresh1](etc/commu/kaederefresh1)
+* [kaederefresh2](etc/commu/kaederefresh2)
+* [kanaderefresh1](etc/commu/kanaderefresh1)
+* [kanaderefresh2](etc/commu/kanaderefresh2)
+* [kanaderefresh3](etc/commu/kanaderefresh3)
+* [kakorefresh1](etc/commu/kakorefresh1)
+* [kakorefresh2](etc/commu/kakorefresh2)
